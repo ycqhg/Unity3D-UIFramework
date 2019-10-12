@@ -1,0 +1,30 @@
+[
+  {
+    "panelType": "ItemMsgBox",
+    "path": "UIPanel/Bag/ItemMsgBoxPanel"
+  },
+  {
+    "panelType": "MinMenu",
+    "path": "UIPanel/MainMenuPanel"
+  },
+  {
+    "panelType": "Task",
+    "path": "UIPanel/Task/TaskPanel"
+  },
+  {
+    "panelType": "Bag",
+    "path": "UIPanel/Bag/BagPanel"
+  },
+  {
+    "panelType": "Skill",
+    "path": "UIPanel/Skill/SkillPanel"
+  },
+  {
+    "panelType": "Shop",
+    "path": "UIPanel/Shop/ShopPanel"
+  },
+  {
+    "panelType": "System",
+    "path": "UIPanel/System/SystemPanel"
+  }
+]
